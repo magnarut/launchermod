@@ -7987,7 +7987,7 @@
     },
     {
       "path": "mods/better-clouds-1.13.6+1.21.1-neoforge.jar",
-      "category": "recomended",
+      "category": "recommended",
       "name": "Better Clouds",
       "description": "Замінює стандартні ванільні хмари на об'ємні та багатошарові у блочному стилі Minecraft.",
       "author": "Qendolin",
@@ -7996,7 +7996,7 @@
     },
     {
       "path": "mods/blur-neoforge-6.3.1+1.21.1.jar",
-      "category": "recomended",
+      "category": "recommended",
       "name": "Blur+",
       "description": "Додає ефект плавної розмитості заднього фону при відкритті меню та інвентарю.",
       "author": "Motschen",
@@ -8005,7 +8005,7 @@
     },
     {
       "path": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
-      "category": "recomended",
+      "category": "recommended",
       "name": "Immersive UI",
       "description": "Покращує графічний інтерфейс: анімації предметів під курсором, ефекти частинок та плавний хотбар.",
       "author": "SSKirillSS",
@@ -8032,7 +8032,7 @@
     },
     {
       "path": "mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
-      "category": "recomended",
+      "category": "recommended",
       "name": "Cursors Extended (Minecraft Cursor)",
       "description": "Замінює стандартний системний курсор на стилізовані курсори у стилі Minecraft.",
       "author": "fishstiz",
@@ -8059,7 +8059,7 @@
     },
     {
       "path": "mods/shine-2.0.1+1.21.1-neoforge.jar",
-      "category": "recomended",
+      "category": "recommended",
       "name": "Shine",
       "description": "Додає ефекти світіння (bloom), кольорове світло та контури блоків без використання шейдерпаків.",
       "author": "tapeQ",
@@ -8068,7 +8068,7 @@
     },
     {
       "path": "mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
-      "category": "recomended",
+      "category": "recommended",
       "name": "Smooth Swapping",
       "description": "Додає плавну анімацію переміщення предметів між слотами інвентарю та хотбару.",
       "author": "Schauweg",
@@ -8077,7 +8077,7 @@
     },
     {
       "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-      "category": "recomended",
+      "category": "recommended",
       "name": "Sodium Dynamic Lights",
       "description": "Оптимізоване динамічне освітлення від предметів у руках чи скинутого луту з підтримкою Sodium.",
       "author": "Txni",
