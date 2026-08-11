@@ -1165,6 +1165,14 @@
       "size": 174972,
       "type": "MOD",
       "url": "https://magnarut.github.io/launchermod/mods/polymorph-neoforge-1.1.0+1.21.1.jar"
+    },
+    {
+      "name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "path": "mods/",
+      "sha1": "e01709c880b0602b7a306201a25866e76c44f5c0",
+      "size": 74380,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/baguettelib-1.21.1-NeoForge-2.0.3.jar"
     }
   ],
   "mods": [
