@@ -1363,35 +1363,8 @@
       "description": "",
       "homepage": "",
       "icon": "",
-      "name": "gravestone-neoforge-1.21.1-1.0.38",
-      "path": "mods/gravestone-neoforge-1.21.1-1.0.38.jar"
-    },
-    {
-      "author": "",
-      "category": "optional",
-      "description": "",
-      "homepage": "",
-      "icon": "",
-      "name": "gravestone_sable_compat-1.0.0",
-      "path": "mods/gravestone_sable_compat-1.0.0.jar"
-    },
-    {
-      "author": "",
-      "category": "optional",
-      "description": "",
-      "homepage": "",
-      "icon": "",
       "name": "jei-1.21.1-neoforge-19.44.0.401",
       "path": "mods/jei-1.21.1-neoforge-19.44.0.401.jar"
-    },
-    {
-      "author": "",
-      "category": "optional",
-      "description": "",
-      "homepage": "",
-      "icon": "",
-      "name": "polymorph-neoforge-1.1.0+1.21.1",
-      "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar"
     }
   ],
   "version": "1.0.0"
