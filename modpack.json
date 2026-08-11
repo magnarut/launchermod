@@ -1,184 +1,1398 @@
-{"version": "1.0.0","files":[{"name":"resourcepacks","path":"","url":"https://magnarut.github.io/launchermod/resourcepacks","type":"FOLDER"},{"name":"mods","path":"","url":"https://magnarut.github.io/launchermod/mods","type":"FOLDER"},{"name":"config","path":"","url":"https://magnarut.github.io/launchermod/config","type":"FOLDER"},{"name":"fancymenu","path":"","url":"https://magnarut.github.io/launchermod/fancymenu","type":"FOLDER"},{"name":"ui_themes","path":"","url":"https://magnarut.github.io/launchermod/ui_themes","type":"FOLDER"},{"name":"layout_editor","path":"","url":"https://magnarut.github.io/launchermod/layout_editor","type":"FOLDER"},{"name":"widgets","path":"","url":"https://magnarut.github.io/launchermod/widgets","type":"FOLDER"},{"name":"customization","path":"","url":"https://magnarut.github.io/launchermod/customization","type":"FOLDER"},{"name":"assets","path":"","url":"https://magnarut.github.io/launchermod/assets","type":"FOLDER"},{"name":"Create_Pack_UA_v.1.2.7.zip","path":"resourcepacks/","size":3702297,"sha1":"1d99d09917af8830f939167159d82118bbbf7508","url":"https://magnarut.github.io/launchermod/resourcepacks/Create_Pack_UA_v.1.2.7.zip","type":"OTHER"},{"name":"Mods Ukrainian Translate Pack.zip","path":"resourcepacks/","size":6601963,"sha1":"caf95a136c021c941736dd2485780e941e330035","url":"https://magnarut.github.io/launchermod/resourcepacks/Mods Ukrainian Translate Pack.zip","type":"OTHER"},{"name":"aeroworks-1.4.1.jar","path":"mods/","size":634089,"sha1":"545aadbaf3aaa7d8fb0e63b7a03c3f4a0da22d77","url":"https://magnarut.github.io/launchermod/mods/aeroworks-1.4.1.jar","type":"MOD"},{"name":"aether-1.21.1-1.5.10-neoforge.jar","path":"mods/","size":40223909,"sha1":"7554b1dd391b8dd06a810918ec705d0493f693eb","url":"https://magnarut.github.io/launchermod/mods/aether-1.21.1-1.5.10-neoforge.jar","type":"MOD"},{"name":"alltheleaks-1.1.11+1.21.1-neoforge.jar","path":"mods/","size":540482,"sha1":"f94d617b2e887e4bee6f54377c0a931bae823032","url":"https://magnarut.github.io/launchermod/mods/alltheleaks-1.1.11+1.21.1-neoforge.jar","type":"MOD"},{"name":"almostunified-neoforge-1.21.1-1.4.2.jar","path":"mods/","size":295093,"sha1":"f9a58fa95780f4b045d30559c1fdaedaa7f0fba3","url":"https://magnarut.github.io/launchermod/mods/almostunified-neoforge-1.21.1-1.4.2.jar","type":"MOD"},{"name":"architectury-13.0.11-neoforge.jar","path":"mods/","size":584734,"sha1":"008656a0702801174b8ec245ed7aad1921d6e9f1","url":"https://magnarut.github.io/launchermod/mods/architectury-13.0.11-neoforge.jar","type":"MOD"},{"name":"artifacts-neoforge-13.2.1.jar","path":"mods/","size":1030252,"sha1":"3fe4d52cc0b11d91c75005030e83e3f675e62383","url":"https://magnarut.github.io/launchermod/mods/artifacts-neoforge-13.2.1.jar","type":"MOD"},{"name":"AsyncParticles-21.1.3.0+1.21.1.jar","path":"mods/","size":1189680,"sha1":"170637e8bc7943f1ccce7a8b9de4a2decd08b96c","url":"https://magnarut.github.io/launchermod/mods/AsyncParticles-21.1.3.0+1.21.1.jar","type":"MOD"},{"name":"BadOptimizations-2.4.1-1.21.1.jar","path":"mods/","size":283566,"sha1":"1461d8e46391efd32a3085150e86094c9f6f5c9d","url":"https://magnarut.github.io/launchermod/mods/BadOptimizations-2.4.1-1.21.1.jar","type":"MOD"},{"name":"better-clouds-1.13.6+1.21.1-neoforge.jar","path":"mods/","size":815478,"sha1":"23c59c710b511587f4d1c4e04b1fd529a0be5c1f","url":"https://magnarut.github.io/launchermod/mods/better-clouds-1.13.6+1.21.1-neoforge.jar","type":"MOD"},{"name":"better_modlist-21.1.0.jar","path":"mods/","size":818709,"sha1":"d3a1899f3976f04d7ce567f6e450ec1548a8b187","url":"https://magnarut.github.io/launchermod/mods/better_modlist-21.1.0.jar","type":"MOD"},{"name":"blur-neoforge-6.3.1+1.21.1.jar","path":"mods/","size":211164,"sha1":"5e70c05c8233e72a0a5647c72355b46b11711029","url":"https://magnarut.github.io/launchermod/mods/blur-neoforge-6.3.1+1.21.1.jar","type":"MOD"},{"name":"born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar","path":"mods/","size":11842184,"sha1":"73704f38ac368c03716f9cc8f537470d3b352fa2","url":"https://magnarut.github.io/launchermod/mods/born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar","type":"MOD"},{"name":"chloride-NEOFORGE-mc1.21.1-v1.8.1.jar","path":"mods/","size":527889,"sha1":"50454011525e2862678b15d94484fd32a5a54dfb","url":"https://magnarut.github.io/launchermod/mods/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar","type":"MOD"},{"name":"cloth-config-15.0.140-neoforge.jar","path":"mods/","size":1163890,"sha1":"c3e5733ba4503b102589a026000fd5ce0212f6f2","url":"https://magnarut.github.io/launchermod/mods/cloth-config-15.0.140-neoforge.jar","type":"MOD"},{"name":"Corgilib-NeoForge-1.21.1-5.0.0.9.jar","path":"mods/","size":309763,"sha1":"6699f876f9e10f936910055f7fe1a283d8bb9e0f","url":"https://magnarut.github.io/launchermod/mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar","type":"MOD"},{"name":"Analog-Audio-0.1.0.jar","path":"mods/","size":2029363,"sha1":"be36cce01ec27fd6514e27010c22730399281cec","url":"https://magnarut.github.io/launchermod/mods/Analog-Audio-0.1.0.jar","type":"MOD"},{"name":"create-1.21.1-6.0.10.jar","path":"mods/","size":19123767,"sha1":"0e97e49837bed766e6f28a4c95b04885d6acc353","url":"https://magnarut.github.io/launchermod/mods/create-1.21.1-6.0.10.jar","type":"MOD"},{"name":"create-aeronautics-bundled-1.21.1-1.3.0.jar","path":"mods/","size":33120013,"sha1":"a2b08963ebc9f331f52c626aebcd65013e100d69","url":"https://magnarut.github.io/launchermod/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar","type":"MOD"},{"name":"createaddition-1.6.0.jar","path":"mods/","size":1661802,"sha1":"87b539d41ed238e98b26c607c0c81a973323147e","url":"https://magnarut.github.io/launchermod/mods/createaddition-1.6.0.jar","type":"MOD"},{"name":"createbetterfps-1.21.1-1.1.4.jar","path":"mods/","size":26547,"sha1":"c594e20659b73a67bd0b0c2de45b29b78a2eb160","url":"https://magnarut.github.io/launchermod/mods/createbetterfps-1.21.1-1.1.4.jar","type":"MOD"},{"name":"createdeco-2.1.3.jar","path":"mods/","size":3328498,"sha1":"93d9eff58b46c6953e907d071e6be4e3ce07be38","url":"https://magnarut.github.io/launchermod/mods/createdeco-2.1.3.jar","type":"MOD"},{"name":"crittersandcompanions-neoforge-1.21.1-2.6.2.jar","path":"mods/","size":1865180,"sha1":"2470c3235c5af25a67751e1a9221e8c840f4d095","url":"https://magnarut.github.io/launchermod/mods/crittersandcompanions-neoforge-1.21.1-2.6.2.jar","type":"MOD"},{"name":"curios-neoforge-9.5.1+1.21.1.jar","path":"mods/","size":410690,"sha1":"418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4","url":"https://magnarut.github.io/launchermod/mods/curios-neoforge-9.5.1+1.21.1.jar","type":"MOD"},{"name":"deep_aether-1.21.1-1.1.5.1.jar","path":"mods/","size":46236011,"sha1":"2cffdb08d7cb068186cf0fe766fd937425889af1","url":"https://magnarut.github.io/launchermod/mods/deep_aether-1.21.1-1.1.5.1.jar","type":"MOD"},{"name":"emi-1.1.24+1.21.1+neoforge.jar","path":"mods/","size":1111538,"sha1":"3fd494b37027dfbc7f78414d7cbf251c9eb6738a","url":"https://magnarut.github.io/launchermod/mods/emi-1.1.24+1.21.1+neoforge.jar","type":"MOD"},{"name":"emotecraft-for-MC1.21.1-2.4.12-neoforge.jar","path":"mods/","size":861829,"sha1":"1228c7597c4b6cbaec10a090f9b5b471ca9042d4","url":"https://magnarut.github.io/launchermod/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar","type":"MOD"},{"name":"entityculling-neoforge-1.10.5-mc1.21.1.jar","path":"mods/","size":1585287,"sha1":"420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf","url":"https://magnarut.github.io/launchermod/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar","type":"MOD"},{"name":"EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar","path":"mods/","size":4210708,"sha1":"a8e8a45390d30b82f722acc669d5cb2a5d9fff79","url":"https://magnarut.github.io/launchermod/mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar","type":"MOD"},{"name":"fancymenu_neoforge_3.9.9_MC_1.21.1.jar","path":"mods/","size":25905174,"sha1":"a1a2f34a7020b440355501f80c0b1c0f44710891","url":"https://magnarut.github.io/launchermod/mods/fancymenu_neoforge_3.9.9_MC_1.21.1.jar","type":"MOD"},{"name":"FastEvent-1.21.1-neoforge-1.1.2.jar","path":"mods/","size":33218,"sha1":"88e896581c2284a5d804359deebee98534ab1fd3","url":"https://magnarut.github.io/launchermod/mods/FastEvent-1.21.1-neoforge-1.1.2.jar","type":"MOD"},{"name":"Fastquit-3.0.1+1.21.1neoforge.jar","path":"mods/","size":152056,"sha1":"ff63fc19c292502588db8a8f5d77a9d3cfe2fc0a","url":"https://magnarut.github.io/launchermod/mods/Fastquit-3.0.1+1.21.1neoforge.jar","type":"MOD"},{"name":"ferritecore-7.0.3-neoforge.jar","path":"mods/","size":121559,"sha1":"9563692efb708b6b568df27a01ec52f6311928ef","url":"https://magnarut.github.io/launchermod/mods/ferritecore-7.0.3-neoforge.jar","type":"MOD"},{"name":"Galosphere-1.21.1-1.5.5-NeoForge.jar","path":"mods/","size":35545869,"sha1":"f2c3b139c16ba81cdd6f0df2c51313f4fde32950","url":"https://magnarut.github.io/launchermod/mods/Galosphere-1.21.1-1.5.5-NeoForge.jar","type":"MOD"},{"name":"geckolib-neoforge-1.21.1-4.9.2.jar","path":"mods/","size":630584,"sha1":"14c64013cadee7d28f3685f94350f9a4d2ec6d86","url":"https://magnarut.github.io/launchermod/mods/geckolib-neoforge-1.21.1-4.9.2.jar","type":"MOD"},{"name":"gnetum-3.3.6.jar","path":"mods/","size":120726,"sha1":"d017e2bb57af33bb8985e759ac929289da05ea4d","url":"https://magnarut.github.io/launchermod/mods/gnetum-3.3.6.jar","type":"MOD"},{"name":"GPUTape-1.20.6-1.21x-1.0.3.jar","path":"mods/","size":16669,"sha1":"96d8f1df0f08e169396b603c42cf997e9081de59","url":"https://magnarut.github.io/launchermod/mods/GPUTape-1.20.6-1.21x-1.0.3.jar","type":"MOD"},{"name":"handcrafted-neoforge-1.21.1-4.0.3.jar","path":"mods/","size":7132842,"sha1":"8ecd27f1d66f9b742cfae3c8ffa773765f574b52","url":"https://magnarut.github.io/launchermod/mods/handcrafted-neoforge-1.21.1-4.0.3.jar","type":"MOD"},{"name":"idas-1.13.7+1.21.1-neoforge.jar","path":"mods/","size":14485475,"sha1":"154f275823f5f949ed492ac6ce078a80fc3c759a","url":"https://magnarut.github.io/launchermod/mods/idas-1.13.7+1.21.1-neoforge.jar","type":"MOD"},{"name":"ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar","path":"mods/","size":361795,"sha1":"6594ea2759455f4e135b9479f807bacf4b4b0b43","url":"https://magnarut.github.io/launchermod/mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar","type":"MOD"},{"name":"ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar","path":"mods/","size":217081,"sha1":"5e9dda03c6142400b95dc3114675e07c943d554d","url":"https://magnarut.github.io/launchermod/mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar","type":"MOD"},{"name":"integrated_api-1.7.3+1.21.1-neoforge.jar","path":"mods/","size":478796,"sha1":"2f47b37951b2a4b6eb3c3dcd7eb9a819e0ca93a6","url":"https://magnarut.github.io/launchermod/mods/integrated_api-1.7.3+1.21.1-neoforge.jar","type":"MOD"},{"name":"InventoryInteractions-1.3.0+1.21.1+neoforge.jar","path":"mods/","size":418599,"sha1":"de455eca38f59436b1ef55ec6192a0e2831345c6","url":"https://magnarut.github.io/launchermod/mods/InventoryInteractions-1.3.0+1.21.1+neoforge.jar","type":"MOD"},{"name":"InventoryParticles-2.6.0+1.21.1+neoforge.jar","path":"mods/","size":1664805,"sha1":"5696c74106dae1023ca42c27a6bc5c35f6784e1e","url":"https://magnarut.github.io/launchermod/mods/InventoryParticles-2.6.0+1.21.1+neoforge.jar","type":"MOD"},{"name":"iris-neoforge-1.8.14-beta.1+mc1.21.1.jar","path":"mods/","size":2540723,"sha1":"1bd129cf7bce65d6b1c0543045f0620c98a0f885","url":"https://magnarut.github.io/launchermod/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar","type":"MOD"},{"name":"Ixeris-4.6.0+1.21.1-neoforge.jar","path":"mods/","size":675460,"sha1":"9b522f0d29a22c378e7b5460a5fedd88cd874235","url":"https://magnarut.github.io/launchermod/mods/Ixeris-4.6.0+1.21.1-neoforge.jar","type":"MOD"},{"name":"Jade-1.21.1-NeoForge-15.10.6.jar","path":"mods/","size":726853,"sha1":"88ee316e68900080b017f60c12162e2731924cf8","url":"https://magnarut.github.io/launchermod/mods/Jade-1.21.1-NeoForge-15.10.6.jar","type":"MOD"},{"name":"konkrete_neoforge_1.9.9_MC_1.21.jar","path":"mods/","size":618842,"sha1":"97771eb287d5ac7fe667d1df9493d5e54c8ca1fa","url":"https://magnarut.github.io/launchermod/mods/konkrete_neoforge_1.9.9_MC_1.21.jar","type":"MOD"},{"name":"krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar","path":"mods/","size":1015871,"sha1":"3b9253fcfaa11586ce528fbc0a26175991c9408f","url":"https://magnarut.github.io/launchermod/mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar","type":"MOD"},{"name":"letsdo-brewery-neoforge-2.1.9.jar","path":"mods/","size":1656054,"sha1":"3748fdb69cbb5abfc419ec873dc3bf142f0072d0","url":"https://magnarut.github.io/launchermod/mods/letsdo-brewery-neoforge-2.1.9.jar","type":"MOD"},{"name":"letsdo-farm_and_charm-neoforge-1.1.23.jar","path":"mods/","size":2586013,"sha1":"92febd01301604d4f4a9a3c5b1188b1ac8250edc","url":"https://magnarut.github.io/launchermod/mods/letsdo-farm_and_charm-neoforge-1.1.23.jar","type":"MOD"},{"name":"letsdo-herbalbrews-neoforge-1.1.3.jar","path":"mods/","size":757160,"sha1":"7e91a29bdbc696dfae7af7bc47bce7a7f773a7b1","url":"https://magnarut.github.io/launchermod/mods/letsdo-herbalbrews-neoforge-1.1.3.jar","type":"MOD"},{"name":"lightspeed-1.21.1-1.2.1.jar","path":"mods/","size":75073,"sha1":"add1907dbee269673bd29c08fa2944c7963d89e9","url":"https://magnarut.github.io/launchermod/mods/lightspeed-1.21.1-1.2.1.jar","type":"MOD"},{"name":"lithium-neoforge-0.15.4+mc1.21.1.jar","path":"mods/","size":774220,"sha1":"97212e45c963730bbfc7c44780df99317814c21b","url":"https://magnarut.github.io/launchermod/mods/lithium-neoforge-0.15.4+mc1.21.1.jar","type":"MOD"},{"name":"lmft-1.1.1+1.21.9-neoforge.jar","path":"mods/","size":78624,"sha1":"492d597ca216f9d099be112e77a9a5c7ed138770","url":"https://magnarut.github.io/launchermod/mods/lmft-1.1.1+1.21.9-neoforge.jar","type":"MOD"},{"name":"lootr-neoforge-1.21.1-1.11.38.123.jar","path":"mods/","size":994419,"sha1":"0a0cf6475fcd8802de4255dc5046a956899b3081","url":"https://magnarut.github.io/launchermod/mods/lootr-neoforge-1.21.1-1.11.38.123.jar","type":"MOD"},{"name":"Luminous Beasts V1.2.7 - NeoForge 1.21.1.jar","path":"mods/","size":29578686,"sha1":"5a6c4626345d0d85596b9d9268763b8d295e5ee5","url":"https://magnarut.github.io/launchermod/mods/Luminous Beasts V1.2.7 - NeoForge 1.21.1.jar","type":"MOD"},{"name":"LuminousNetherV1.3.3 0 NeoForge 1.21.1.jar","path":"mods/","size":24107406,"sha1":"4f17cd3e962d0d2c08c44ed3716bf5264d000b55","url":"https://magnarut.github.io/launchermod/mods/LuminousNetherV1.3.3 0 NeoForge 1.21.1.jar","type":"MOD"},{"name":"melody_neoforge_1.0.10_MC_1.21.jar","path":"mods/","size":36096,"sha1":"e83052a92c4ca0016bcfe7f0207273983dc84698","url":"https://magnarut.github.io/launchermod/mods/melody_neoforge_1.0.10_MC_1.21.jar","type":"MOD"},{"name":"midnightlib-neoforge-1.9.3+1.21.1.jar","path":"mods/","size":61217,"sha1":"e0c9a1ffc6a53435029a23d9c110c44620595469","url":"https://magnarut.github.io/launchermod/mods/midnightlib-neoforge-1.9.3+1.21.1.jar","type":"MOD"},{"name":"minecraft-cursor-neoforge-3.11.3+1.21.1.jar","path":"mods/","size":289244,"sha1":"4bfe5b677b18bc610ff1e381f3abb4f5953b7eba","url":"https://magnarut.github.io/launchermod/mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar","type":"MOD"},{"name":"modernfix-neoforge-5.27.20+mc1.21.1.jar","path":"mods/","size":599474,"sha1":"bc1a70e72e7dba8a3ff41404765fdd03a7ac6575","url":"https://magnarut.github.io/launchermod/mods/modernfix-neoforge-5.27.20+mc1.21.1.jar","type":"MOD"},{"name":"moonlight-1.21.1-3.3.2-neoforge.jar","path":"mods/","size":2143736,"sha1":"066461830cba209098c70fde4c31c74ae8f64aed","url":"https://magnarut.github.io/launchermod/mods/moonlight-1.21.1-3.3.2-neoforge.jar","type":"MOD"},{"name":"moreculling-neoforge-1.21.1-1.0.8.jar","path":"mods/","size":332875,"sha1":"fdbfaa5d6d93a11d44020301199dac68de231649","url":"https://magnarut.github.io/launchermod/mods/moreculling-neoforge-1.21.1-1.0.8.jar","type":"MOD"},{"name":"naturalist-2.0.2-neoforge-1.21.1.jar","path":"mods/","size":11301868,"sha1":"6ef58b3e4dc38867f2f69efc8b8a76098dbdd58c","url":"https://magnarut.github.io/launchermod/mods/naturalist-2.0.2-neoforge-1.21.1.jar","type":"MOD"},{"name":"natures_spirit-2.2.5-1.21.1.jar","path":"mods/","size":18614161,"sha1":"153679dc2dd4601b40beed834799ba1d7c05b08a","url":"https://magnarut.github.io/launchermod/mods/natures_spirit-2.2.5-1.21.1.jar","type":"MOD"},{"name":"OctoLib-NEOFORGE-0.6.2+1.21.jar","path":"mods/","size":544378,"sha1":"f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad","url":"https://magnarut.github.io/launchermod/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar","type":"MOD"},{"name":"Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar","path":"mods/","size":20484967,"sha1":"4611dc5bb4240333178e14e81f76168f78167448","url":"https://magnarut.github.io/launchermod/mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar","type":"MOD"},{"name":"Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar","path":"mods/","size":167431,"sha1":"1867792e4e3d9fc6bb7acabb31cbec7a3d49ecad","url":"https://magnarut.github.io/launchermod/mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar","type":"MOD"},{"name":"owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar","path":"mods/","size":1221583,"sha1":"48dda11a6710591cf162bdbedf982ea21dd1f2ed","url":"https://magnarut.github.io/launchermod/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar","type":"MOD"},{"name":"yagm-1.21.1-0.1.2-NEOFORGE.jar","path":"mods/","size":939497,"sha1":"b8642fb0e2a8660a53875979f0788892b41e889e","url":"https://magnarut.github.io/launchermod/mods/yagm-1.21.1-0.1.2-NEOFORGE.jar","type":"MOD"},{"name":"packetfixer-3.3.1-1.20.5-1.21.X-merged.jar","path":"mods/","size":46623,"sha1":"a8bb6e25807682e72c23bf4065f3cd5f6373ece3","url":"https://magnarut.github.io/launchermod/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar","type":"MOD"},{"name":"particular-1.21.1-NeoForge-1.5.5.jar","path":"mods/","size":314940,"sha1":"ae12a64a5763c701325b8ca5bf6729f645a427e7","url":"https://magnarut.github.io/launchermod/mods/particular-1.21.1-NeoForge-1.5.5.jar","type":"MOD"},{"name":"punchy-2.6.2-neoforge-1.21.1.jar","path":"mods/","size":1714297,"sha1":"96c094efc72a1bdcdfaae9129f6018d7215f13f7","url":"https://magnarut.github.io/launchermod/mods/punchy-2.6.2-neoforge-1.21.1.jar","type":"MOD"},{"name":"Quark-4.1-482.jar","path":"mods/","size":15576704,"sha1":"f73c3008321a9fb2da1151be9b49f0dfd006b6b5","url":"https://magnarut.github.io/launchermod/mods/Quark-4.1-482.jar","type":"MOD"},{"name":"quick-pack-neoforge-1.4.0+1.21.1.jar","path":"mods/","size":15082,"sha1":"a725dffc3ab2e1e96326296255b4cefcc49cab61","url":"https://magnarut.github.io/launchermod/mods/quick-pack-neoforge-1.4.0+1.21.1.jar","type":"MOD"},{"name":"rarcompat-1.21-0.9.7.jar","path":"mods/","size":451470,"sha1":"55c301ea622fc5a613531715c99b7d1d66f2e1d6","url":"https://magnarut.github.io/launchermod/mods/rarcompat-1.21-0.9.7.jar","type":"MOD"},{"name":"reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar","path":"mods/","size":260876,"sha1":"904f815b1f5c48703c354d432fcbc3531022337f","url":"https://magnarut.github.io/launchermod/mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar","type":"MOD"},{"name":"relics-1.21.1-0.10.7.8.jar","path":"mods/","size":2753166,"sha1":"7f7fd59273ac5ef6511a811518bc9af01705a528","url":"https://magnarut.github.io/launchermod/mods/relics-1.21.1-0.10.7.8.jar","type":"MOD"},{"name":"reliquified_twilight_forest-1.21.1-0.5.2.jar","path":"mods/","size":769954,"sha1":"caf8db3c3b0ce8d2bd765dd12e578dbfbd9d2eba","url":"https://magnarut.github.io/launchermod/mods/reliquified_twilight_forest-1.21.1-0.5.2.jar","type":"MOD"},{"name":"resourcefullib-neoforge-1.21-3.0.12.jar","path":"mods/","size":484332,"sha1":"24389c8e48ff0e8594e4686b750c494c66a5f8df","url":"https://magnarut.github.io/launchermod/mods/resourcefullib-neoforge-1.21-3.0.12.jar","type":"MOD"},{"name":"sable-neoforge-1.21.1-2.0.3.jar","path":"mods/","size":12889000,"sha1":"f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756","url":"https://magnarut.github.io/launchermod/mods/sable-neoforge-1.21.1-2.0.3.jar","type":"MOD"},{"name":"smoothswapping-0.9.3.2-1.21.1-neoforge.jar","path":"mods/","size":62900,"sha1":"00338f16b360d6b24b53fc8f92b76256729aee75","url":"https://magnarut.github.io/launchermod/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar","type":"MOD"},{"name":"sodium-extra-neoforge-0.9.3+mc1.21.1.jar","path":"mods/","size":465013,"sha1":"3aaac7712521b477acc73757459b3883c4e0bbda","url":"https://magnarut.github.io/launchermod/mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar","type":"MOD"},{"name":"sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar","path":"mods/","size":1292065,"sha1":"f868ab0a037d1211fabd31b2f42a2862b8e6c669","url":"https://magnarut.github.io/launchermod/mods/sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar","type":"MOD"},{"name":"sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar","path":"mods/","size":299353,"sha1":"02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652","url":"https://magnarut.github.io/launchermod/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar","type":"MOD"},{"name":"sound-physics-remastered-neoforge-1.21.1-1.4.10.jar","path":"mods/","size":199310,"sha1":"48d0817ba80d733afc654d55a2d0cbba0815dbe8","url":"https://magnarut.github.io/launchermod/mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar","type":"MOD"},{"name":"spawn-4.0.7-1.21.1.jar","path":"mods/","size":73638060,"sha1":"2deea6d639e5d197414f0903b4beb89c56466ae0","url":"https://magnarut.github.io/launchermod/mods/spawn-4.0.7-1.21.1.jar","type":"MOD"},{"name":"supplementaries-1.21.1-3.8.8-neoforge.jar","path":"mods/","size":13470208,"sha1":"4e66106d496a130f9d37824d30aaa8b494225b8f","url":"https://magnarut.github.io/launchermod/mods/supplementaries-1.21.1-3.8.8-neoforge.jar","type":"MOD"},{"name":"teallib-1.3.teal.jar","path":"mods/","size":262609,"sha1":"b186cdfd311158858429e494ecd11e2157274eff","url":"https://magnarut.github.io/launchermod/mods/teallib-1.3.teal.jar","type":"MOD"},{"name":"Quiet-neo-1.21.1-1.0.0.jar","path":"mods/","size":21118,"sha1":"2bf5a9ccb1b99b38e6a9f181d55de9bb783a2600","url":"https://magnarut.github.io/launchermod/mods/Quiet-neo-1.21.1-1.0.0.jar","type":"MOD"},{"name":"TerraBlender-neoforge-1.21.1-4.1.0.8.jar","path":"mods/","size":120365,"sha1":"744394d979b422be560babf9df7a6800ede9ac5b","url":"https://magnarut.github.io/launchermod/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar","type":"MOD"},{"name":"MossyLib-1.5.0+1.21.1+neoforge.jar","path":"mods/","size":179463,"sha1":"c3ed14d35a7d95fc3b215ad5a2a604de4ff7b45c","url":"https://magnarut.github.io/launchermod/mods/MossyLib-1.5.0+1.21.1+neoforge.jar","type":"MOD"},{"name":"animal_pen-neoforge-1.21-2.4.3.jar","path":"mods/","size":604038,"sha1":"d307bdf87ad55e4ec789631c083c1b76ba0e26a9","url":"https://magnarut.github.io/launchermod/mods/animal_pen-neoforge-1.21-2.4.3.jar","type":"MOD"},{"name":"twilightforest-1.21.1-4.8.3345-universal.jar","path":"mods/","size":27154121,"sha1":"9cfd4154928433e2f1f6cfc3deb48c284debb580","url":"https://magnarut.github.io/launchermod/mods/twilightforest-1.21.1-4.8.3345-universal.jar","type":"MOD"},{"name":"twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1.jar","path":"mods/","size":3364135,"sha1":"19d712b0003d64b5f1d3cd1ec80c705ac53fc047","url":"https://magnarut.github.io/launchermod/mods/twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1.jar","type":"MOD"},{"name":"txnilib-neoforge-1.0.24-1.21.1.jar","path":"mods/","size":6276522,"sha1":"17b1bbb96e922e683a1807a2e7bece603fdc491d","url":"https://magnarut.github.io/launchermod/mods/txnilib-neoforge-1.0.24-1.21.1.jar","type":"MOD"},{"name":"umbral_skies-1.21.1-1.6.2.jar","path":"mods/","size":199999,"sha1":"3fa47552e79588fbd5b50f8814e735b16f831f9e","url":"https://magnarut.github.io/launchermod/mods/umbral_skies-1.21.1-1.6.2.jar","type":"MOD"},{"name":"visuality-forge-2.1.0.jar","path":"mods/","size":115765,"sha1":"b400034ca8affe8f30b21935ae4ef74b1cf2fa29","url":"https://magnarut.github.io/launchermod/mods/visuality-forge-2.1.0.jar","type":"MOD"},{"name":"voicechat-neoforge-1.21.1-2.6.21.jar","path":"mods/","size":4913870,"sha1":"f72eff26b1156fdce12ef18c5792c48a54340142","url":"https://magnarut.github.io/launchermod/mods/voicechat-neoforge-1.21.1-2.6.21.jar","type":"MOD"},{"name":"xaerominimap-neoforge-1.21.1-26.1.0.jar","path":"mods/","size":2138254,"sha1":"8def3c4be129420700d6fe325abe3a6b6fbe3e18","url":"https://magnarut.github.io/launchermod/mods/xaerominimap-neoforge-1.21.1-26.1.0.jar","type":"MOD"},{"name":"xaeroworldmap-neoforge-1.21.1-1.41.2.jar","path":"mods/","size":1387921,"sha1":"87be8ca51b531ac76e125a76fa05b2ba88823499","url":"https://magnarut.github.io/launchermod/mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar","type":"MOD"},{"name":"yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar","path":"mods/","size":1118651,"sha1":"fe270c9f6e0a8142cf316944087f5109cef08bbb","url":"https://magnarut.github.io/launchermod/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar","type":"MOD"},{"name":"Zeta-1.1-40.jar","path":"mods/","size":763725,"sha1":"72f6efe421cfc0547c774ae8241d727b7d996754","url":"https://magnarut.github.io/launchermod/mods/Zeta-1.1-40.jar","type":"MOD"},{"name":"zmedievalmusic-1.21-2.1.jar","path":"mods/","size":347327121,"sha1":"e31ff57bfbc7ce99257e020b77fa22aec45f7ad4","url":"https://magnarut.github.io/launchermod/mods/zmedievalmusic-1.21-2.1.jar","type":"MOD"},{"name":"animation_controller_states.json","path":"config/fancymenu/","size":220,"sha1":"ec38b919a5193abc324c98c7e477796f3a6827cf","url":"https://magnarut.github.io/launchermod/config/fancymenu/animation_controller_states.json","type":"OTHER"},{"name":"audio_element_controller_metas.json","path":"config/fancymenu/","size":216,"sha1":"32ec6c6d37932948d14a84bb43b51fbc62d5d99c","url":"https://magnarut.github.io/launchermod/config/fancymenu/audio_element_controller_metas.json","type":"OTHER"},{"name":"customizablemenus.txt","path":"config/fancymenu/","size":126,"sha1":"a05d29f93cd9ab06ee8227b1d009f69f907c7f99","url":"https://magnarut.github.io/launchermod/config/fancymenu/customizablemenus.txt","type":"OTHER"},{"name":"custom_gui_screens.txt","path":"config/fancymenu/","size":51,"sha1":"50b4602527a4e3cfea6016ec001f3b68ace1d65c","url":"https://magnarut.github.io/launchermod/config/fancymenu/custom_gui_screens.txt","type":"OTHER"},{"name":"legacy_checklist.txt","path":"config/fancymenu/","size":42,"sha1":"f1569161a6ad24cc61b02dece317ea16e351ff1e","url":"https://magnarut.github.io/launchermod/config/fancymenu/legacy_checklist.txt","type":"OTHER"},{"name":"options.txt","path":"config/fancymenu/","size":4633,"sha1":"4c1e34a80924a0cfa32d969cce6c45563e6c1746","url":"https://magnarut.github.io/launchermod/config/fancymenu/options.txt","type":"OTHER"},{"name":"user_variables.db","path":"config/fancymenu/","size":23,"sha1":"b41f9d7688944b0d96eaa089a5a5bb74af28d258","url":"https://magnarut.github.io/launchermod/config/fancymenu/user_variables.db","type":"OTHER"},{"name":"video_element_controller_metas.json","path":"config/fancymenu/","size":130,"sha1":"616473f28f15b87783505f254b0f889dd0541a21","url":"https://magnarut.github.io/launchermod/config/fancymenu/video_element_controller_metas.json","type":"OTHER"},{"name":"cherry_blossom.json","path":"config/fancymenu/ui_themes/","size":9349,"sha1":"9a453a566f041ddbc39e17918acdac90f6eaed38","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/cherry_blossom.json","type":"OTHER"},{"name":"cozy_campfire.json","path":"config/fancymenu/ui_themes/","size":9347,"sha1":"e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/cozy_campfire.json","type":"OTHER"},{"name":"dark.json","path":"config/fancymenu/ui_themes/","size":9329,"sha1":"b8793f498fc95000ab68a7d6b45d8575ad45d558","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/dark.json","type":"OTHER"},{"name":"dark_high_contrast.json","path":"config/fancymenu/ui_themes/","size":9359,"sha1":"9583fa877b286337557aae3429f91d66682091b7","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/dark_high_contrast.json","type":"OTHER"},{"name":"light.json","path":"config/fancymenu/ui_themes/","size":9331,"sha1":"5b9e9bc9d4d683584c919bcdae3b75581ae42f60","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/light.json","type":"OTHER"},{"name":"light_high_contrast.json","path":"config/fancymenu/ui_themes/","size":9361,"sha1":"8a290f6e1a0bdf2be972878e1c134a0c31f4a069","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/light_high_contrast.json","type":"OTHER"},{"name":"pumpkin_soup.json","path":"config/fancymenu/ui_themes/","size":9345,"sha1":"39c96a61bdeb936b151e38d0050b70abb78e3620","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/pumpkin_soup.json","type":"OTHER"},{"name":"purple_void.json","path":"config/fancymenu/ui_themes/","size":9343,"sha1":"9e38ca299adfe6ab2ad331c6adb80e26ff823da8","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/purple_void.json","type":"OTHER"},{"name":"spooky_season.json","path":"config/fancymenu/ui_themes/","size":9347,"sha1":"9fa05d2794bdec26dee5224075c98bd7da9c1a0d","url":"https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/spooky_season.json","type":"OTHER"},{"name":"element_layer_control.lewidget","path":"config/fancymenu/layout_editor/widgets/","size":197,"sha1":"adc605cf794120522f34a402a4301baf4e59350d","url":"https://magnarut.github.io/launchermod/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget","type":"OTHER"},{"name":"pause_screen_layout.txt","path":"config/fancymenu/customization/","size":45804,"sha1":"90e08bc0d07b6dd55b6a9862c391fb71ab2a7c09","url":"https://magnarut.github.io/launchermod/config/fancymenu/customization/pause_screen_layout.txt","type":"OTHER"},{"name":"title_screen_layout.txt","path":"config/fancymenu/customization/","size":63291,"sha1":"6d2e674a3a327c16267fa322e3a57889a08babbe","url":"https://magnarut.github.io/launchermod/config/fancymenu/customization/title_screen_layout.txt","type":"OTHER"},{"name":"ahh.wav","path":"config/fancymenu/assets/","size":3346814,"sha1":"f2b73ae39af98fabaa8240ffcc34829276c0bc77","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/ahh.wav","type":"OTHER"},{"name":"background1.png","path":"config/fancymenu/assets/","size":3177563,"sha1":"9a43d8ee5b55010f7db90fa3406669ca101d59c7","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/background1.png","type":"OTHER"},{"name":"button.png","path":"config/fancymenu/assets/","size":1511,"sha1":"f5e40449c6acc01192c0e451dd41f80ec707c2af","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/button.png","type":"OTHER"},{"name":"button_highlighted.png","path":"config/fancymenu/assets/","size":1543,"sha1":"6102582e7039d038b26494212ae92e030aa4b12e","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/button_highlighted.png","type":"OTHER"},{"name":"ddda.wav","path":"config/fancymenu/assets/","size":144516,"sha1":"35a8ffa7386f2a9cff68b6bb2622d40366dc8355","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/ddda.wav","type":"OTHER"},{"name":"ddddddd.png","path":"config/fancymenu/assets/","size":81903,"sha1":"28aedaee73bd2082c71e7b9d0135342d1c4ce188","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/ddddddd.png","type":"OTHER"},{"name":"deuslower-dark-fantasy-ambient-dungeon-synth-248213.ogg","path":"config/fancymenu/assets/","size":1284937,"sha1":"16f445ab217561d3c855ee4f8f06341b21e26dfc","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/deuslower-dark-fantasy-ambient-dungeon-synth-248213.ogg","type":"OTHER"},{"name":"mommy.ogg","path":"config/fancymenu/assets/","size":6061,"sha1":"1dfcc16fded20320a28f0994975728387cc7853b","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/mommy.ogg","type":"OTHER"},{"name":"pressing-a-button-on-a-ballpoint-pen-on-the-table.ogg","path":"config/fancymenu/assets/","size":9604,"sha1":"ae29f42da2b6aeb2492ca5421be60ea12c0e4987","url":"https://magnarut.github.io/launchermod/config/fancymenu/assets/pressing-a-button-on-a-ballpoint-pen-on-the-table.ogg","type":"OTHER"}],
+{
+  "files": [
+    {
+      "name": "resourcepacks",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/resourcepacks"
+    },
+    {
+      "name": "mods",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/mods"
+    },
+    {
+      "name": "config",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/config"
+    },
+    {
+      "name": "fancymenu",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/fancymenu"
+    },
+    {
+      "name": "ui_themes",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/ui_themes"
+    },
+    {
+      "name": "layout_editor",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/layout_editor"
+    },
+    {
+      "name": "widgets",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/widgets"
+    },
+    {
+      "name": "customization",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/customization"
+    },
+    {
+      "name": "assets",
+      "path": "",
+      "type": "FOLDER",
+      "url": "https://magnarut.github.io/launchermod/assets"
+    },
+    {
+      "name": "Create_Pack_UA_v.1.2.7.zip",
+      "path": "resourcepacks/",
+      "sha1": "1d99d09917af8830f939167159d82118bbbf7508",
+      "size": 3702297,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/resourcepacks/Create_Pack_UA_v.1.2.7.zip"
+    },
+    {
+      "name": "Mods Ukrainian Translate Pack.zip",
+      "path": "resourcepacks/",
+      "sha1": "caf95a136c021c941736dd2485780e941e330035",
+      "size": 6601963,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/resourcepacks/Mods Ukrainian Translate Pack.zip"
+    },
+    {
+      "name": "aeroworks-1.4.1.jar",
+      "path": "mods/",
+      "sha1": "545aadbaf3aaa7d8fb0e63b7a03c3f4a0da22d77",
+      "size": 634089,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/aeroworks-1.4.1.jar"
+    },
+    {
+      "name": "aether-1.21.1-1.5.10-neoforge.jar",
+      "path": "mods/",
+      "sha1": "7554b1dd391b8dd06a810918ec705d0493f693eb",
+      "size": 40223909,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/aether-1.21.1-1.5.10-neoforge.jar"
+    },
+    {
+      "name": "alltheleaks-1.1.11+1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "f94d617b2e887e4bee6f54377c0a931bae823032",
+      "size": 540482,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/alltheleaks-1.1.11+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "almostunified-neoforge-1.21.1-1.4.2.jar",
+      "path": "mods/",
+      "sha1": "f9a58fa95780f4b045d30559c1fdaedaa7f0fba3",
+      "size": 295093,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/almostunified-neoforge-1.21.1-1.4.2.jar"
+    },
+    {
+      "name": "architectury-13.0.11-neoforge.jar",
+      "path": "mods/",
+      "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+      "size": 584734,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/architectury-13.0.11-neoforge.jar"
+    },
+    {
+      "name": "artifacts-neoforge-13.2.1.jar",
+      "path": "mods/",
+      "sha1": "3fe4d52cc0b11d91c75005030e83e3f675e62383",
+      "size": 1030252,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/artifacts-neoforge-13.2.1.jar"
+    },
+    {
+      "name": "AsyncParticles-21.1.3.0+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "170637e8bc7943f1ccce7a8b9de4a2decd08b96c",
+      "size": 1189680,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/AsyncParticles-21.1.3.0+1.21.1.jar"
+    },
+    {
+      "name": "BadOptimizations-2.4.1-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
+      "size": 283566,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/BadOptimizations-2.4.1-1.21.1.jar"
+    },
+    {
+      "name": "better-clouds-1.13.6+1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "23c59c710b511587f4d1c4e04b1fd529a0be5c1f",
+      "size": 815478,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/better-clouds-1.13.6+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "better_modlist-21.1.0.jar",
+      "path": "mods/",
+      "sha1": "d3a1899f3976f04d7ce567f6e450ec1548a8b187",
+      "size": 818709,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/better_modlist-21.1.0.jar"
+    },
+    {
+      "name": "blur-neoforge-6.3.1+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "5e70c05c8233e72a0a5647c72355b46b11711029",
+      "size": 211164,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/blur-neoforge-6.3.1+1.21.1.jar"
+    },
+    {
+      "name": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "path": "mods/",
+      "sha1": "73704f38ac368c03716f9cc8f537470d3b352fa2",
+      "size": 11842184,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar"
+    },
+    {
+      "name": "chloride-NEOFORGE-mc1.21.1-v1.8.1.jar",
+      "path": "mods/",
+      "sha1": "50454011525e2862678b15d94484fd32a5a54dfb",
+      "size": 527889,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar"
+    },
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "path": "mods/",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "size": 1163890,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/cloth-config-15.0.140-neoforge.jar"
+    },
+    {
+      "name": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "path": "mods/",
+      "sha1": "6699f876f9e10f936910055f7fe1a283d8bb9e0f",
+      "size": 309763,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
+    },
+    {
+      "name": "Analog-Audio-0.1.0.jar",
+      "path": "mods/",
+      "sha1": "be36cce01ec27fd6514e27010c22730399281cec",
+      "size": 2029363,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Analog-Audio-0.1.0.jar"
+    },
+    {
+      "name": "create-1.21.1-6.0.10.jar",
+      "path": "mods/",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "size": 19123767,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/create-1.21.1-6.0.10.jar"
+    },
+    {
+      "name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "path": "mods/",
+      "sha1": "a2b08963ebc9f331f52c626aebcd65013e100d69",
+      "size": 33120013,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
+    },
+    {
+      "name": "createaddition-1.6.0.jar",
+      "path": "mods/",
+      "sha1": "87b539d41ed238e98b26c607c0c81a973323147e",
+      "size": 1661802,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/createaddition-1.6.0.jar"
+    },
+    {
+      "name": "createbetterfps-1.21.1-1.1.4.jar",
+      "path": "mods/",
+      "sha1": "c594e20659b73a67bd0b0c2de45b29b78a2eb160",
+      "size": 26547,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/createbetterfps-1.21.1-1.1.4.jar"
+    },
+    {
+      "name": "createdeco-2.1.3.jar",
+      "path": "mods/",
+      "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+      "size": 3328498,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/createdeco-2.1.3.jar"
+    },
+    {
+      "name": "crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
+      "path": "mods/",
+      "sha1": "2470c3235c5af25a67751e1a9221e8c840f4d095",
+      "size": 1865180,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/crittersandcompanions-neoforge-1.21.1-2.6.2.jar"
+    },
+    {
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "size": 410690,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/curios-neoforge-9.5.1+1.21.1.jar"
+    },
+    {
+      "name": "deep_aether-1.21.1-1.1.5.1.jar",
+      "path": "mods/",
+      "sha1": "2cffdb08d7cb068186cf0fe766fd937425889af1",
+      "size": 46236011,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/deep_aether-1.21.1-1.1.5.1.jar"
+    },
+    {
+      "name": "emi-1.1.24+1.21.1+neoforge.jar",
+      "path": "mods/",
+      "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+      "size": 1111538,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/emi-1.1.24+1.21.1+neoforge.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "path": "mods/",
+      "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4",
+      "size": 861829,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+    },
+    {
+      "name": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
+      "size": 1585287,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+    },
+    {
+      "name": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "a8e8a45390d30b82f722acc669d5cb2a5d9fff79",
+      "size": 4210708,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar"
+    },
+    {
+      "name": "fancymenu_neoforge_3.9.9_MC_1.21.1.jar",
+      "path": "mods/",
+      "sha1": "a1a2f34a7020b440355501f80c0b1c0f44710891",
+      "size": 25905174,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/fancymenu_neoforge_3.9.9_MC_1.21.1.jar"
+    },
+    {
+      "name": "FastEvent-1.21.1-neoforge-1.1.2.jar",
+      "path": "mods/",
+      "sha1": "88e896581c2284a5d804359deebee98534ab1fd3",
+      "size": 33218,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/FastEvent-1.21.1-neoforge-1.1.2.jar"
+    },
+    {
+      "name": "Fastquit-3.0.1+1.21.1neoforge.jar",
+      "path": "mods/",
+      "sha1": "ff63fc19c292502588db8a8f5d77a9d3cfe2fc0a",
+      "size": 152056,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Fastquit-3.0.1+1.21.1neoforge.jar"
+    },
+    {
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "path": "mods/",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "size": 121559,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/ferritecore-7.0.3-neoforge.jar"
+    },
+    {
+      "name": "Galosphere-1.21.1-1.5.5-NeoForge.jar",
+      "path": "mods/",
+      "sha1": "f2c3b139c16ba81cdd6f0df2c51313f4fde32950",
+      "size": 35545869,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Galosphere-1.21.1-1.5.5-NeoForge.jar"
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "path": "mods/",
+      "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86",
+      "size": 630584,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
+    },
+    {
+      "name": "gnetum-3.3.6.jar",
+      "path": "mods/",
+      "sha1": "d017e2bb57af33bb8985e759ac929289da05ea4d",
+      "size": 120726,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/gnetum-3.3.6.jar"
+    },
+    {
+      "name": "GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "path": "mods/",
+      "sha1": "96d8f1df0f08e169396b603c42cf997e9081de59",
+      "size": 16669,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/GPUTape-1.20.6-1.21x-1.0.3.jar"
+    },
+    {
+      "name": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "path": "mods/",
+      "sha1": "8ecd27f1d66f9b742cfae3c8ffa773765f574b52",
+      "size": 7132842,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
+    },
+    {
+      "name": "idas-1.13.7+1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "154f275823f5f949ed492ac6ce078a80fc3c759a",
+      "size": 14485475,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/idas-1.13.7+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "6594ea2759455f4e135b9479f807bacf4b4b0b43",
+      "size": 361795,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar"
+    },
+    {
+      "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d",
+      "size": 217081,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar"
+    },
+    {
+      "name": "integrated_api-1.7.3+1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "2f47b37951b2a4b6eb3c3dcd7eb9a819e0ca93a6",
+      "size": 478796,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/integrated_api-1.7.3+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "InventoryInteractions-1.3.0+1.21.1+neoforge.jar",
+      "path": "mods/",
+      "sha1": "de455eca38f59436b1ef55ec6192a0e2831345c6",
+      "size": 418599,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/InventoryInteractions-1.3.0+1.21.1+neoforge.jar"
+    },
+    {
+      "name": "InventoryParticles-2.6.0+1.21.1+neoforge.jar",
+      "path": "mods/",
+      "sha1": "5696c74106dae1023ca42c27a6bc5c35f6784e1e",
+      "size": 1664805,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/InventoryParticles-2.6.0+1.21.1+neoforge.jar"
+    },
+    {
+      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "size": 2540723,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+    },
+    {
+      "name": "Ixeris-4.6.0+1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "9b522f0d29a22c378e7b5460a5fedd88cd874235",
+      "size": 675460,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Ixeris-4.6.0+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "path": "mods/",
+      "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+      "size": 726853,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Jade-1.21.1-NeoForge-15.10.6.jar"
+    },
+    {
+      "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "path": "mods/",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "size": 618842,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+    },
+    {
+      "name": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "3b9253fcfaa11586ce528fbc0a26175991c9408f",
+      "size": 1015871,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar"
+    },
+    {
+      "name": "letsdo-brewery-neoforge-2.1.9.jar",
+      "path": "mods/",
+      "sha1": "3748fdb69cbb5abfc419ec873dc3bf142f0072d0",
+      "size": 1656054,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/letsdo-brewery-neoforge-2.1.9.jar"
+    },
+    {
+      "name": "letsdo-farm_and_charm-neoforge-1.1.23.jar",
+      "path": "mods/",
+      "sha1": "92febd01301604d4f4a9a3c5b1188b1ac8250edc",
+      "size": 2586013,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/letsdo-farm_and_charm-neoforge-1.1.23.jar"
+    },
+    {
+      "name": "letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "path": "mods/",
+      "sha1": "7e91a29bdbc696dfae7af7bc47bce7a7f773a7b1",
+      "size": 757160,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/letsdo-herbalbrews-neoforge-1.1.3.jar"
+    },
+    {
+      "name": "lightspeed-1.21.1-1.2.1.jar",
+      "path": "mods/",
+      "sha1": "add1907dbee269673bd29c08fa2944c7963d89e9",
+      "size": 75073,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/lightspeed-1.21.1-1.2.1.jar"
+    },
+    {
+      "name": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+      "size": 774220,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
+    },
+    {
+      "name": "lmft-1.1.1+1.21.9-neoforge.jar",
+      "path": "mods/",
+      "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770",
+      "size": 78624,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/lmft-1.1.1+1.21.9-neoforge.jar"
+    },
+    {
+      "name": "lootr-neoforge-1.21.1-1.11.38.123.jar",
+      "path": "mods/",
+      "sha1": "0a0cf6475fcd8802de4255dc5046a956899b3081",
+      "size": 994419,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/lootr-neoforge-1.21.1-1.11.38.123.jar"
+    },
+    {
+      "name": "Luminous Beasts V1.2.7 - NeoForge 1.21.1.jar",
+      "path": "mods/",
+      "sha1": "5a6c4626345d0d85596b9d9268763b8d295e5ee5",
+      "size": 29578686,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Luminous Beasts V1.2.7 - NeoForge 1.21.1.jar"
+    },
+    {
+      "name": "LuminousNetherV1.3.3 0 NeoForge 1.21.1.jar",
+      "path": "mods/",
+      "sha1": "4f17cd3e962d0d2c08c44ed3716bf5264d000b55",
+      "size": 24107406,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/LuminousNetherV1.3.3 0 NeoForge 1.21.1.jar"
+    },
+    {
+      "name": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "path": "mods/",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+      "size": 36096,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/melody_neoforge_1.0.10_MC_1.21.jar"
+    },
+    {
+      "name": "midnightlib-neoforge-1.9.3+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "e0c9a1ffc6a53435029a23d9c110c44620595469",
+      "size": 61217,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
+    },
+    {
+      "name": "minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "4bfe5b677b18bc610ff1e381f3abb4f5953b7eba",
+      "size": 289244,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar"
+    },
+    {
+      "name": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575",
+      "size": 599474,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/modernfix-neoforge-5.27.20+mc1.21.1.jar"
+    },
+    {
+      "name": "moonlight-1.21.1-3.3.2-neoforge.jar",
+      "path": "mods/",
+      "sha1": "066461830cba209098c70fde4c31c74ae8f64aed",
+      "size": 2143736,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/moonlight-1.21.1-3.3.2-neoforge.jar"
+    },
+    {
+      "name": "moreculling-neoforge-1.21.1-1.0.8.jar",
+      "path": "mods/",
+      "sha1": "fdbfaa5d6d93a11d44020301199dac68de231649",
+      "size": 332875,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/moreculling-neoforge-1.21.1-1.0.8.jar"
+    },
+    {
+      "name": "naturalist-2.0.2-neoforge-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "6ef58b3e4dc38867f2f69efc8b8a76098dbdd58c",
+      "size": 11301868,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/naturalist-2.0.2-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "natures_spirit-2.2.5-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "153679dc2dd4601b40beed834799ba1d7c05b08a",
+      "size": 18614161,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/natures_spirit-2.2.5-1.21.1.jar"
+    },
+    {
+      "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "path": "mods/",
+      "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad",
+      "size": 544378,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+    },
+    {
+      "name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
+      "path": "mods/",
+      "sha1": "4611dc5bb4240333178e14e81f76168f78167448",
+      "size": 20484967,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar"
+    },
+    {
+      "name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "path": "mods/",
+      "sha1": "1867792e4e3d9fc6bb7acabb31cbec7a3d49ecad",
+      "size": 167431,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar"
+    },
+    {
+      "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "path": "mods/",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
+      "size": 1221583,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
+    },
+    {
+      "name": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "path": "mods/",
+      "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
+      "size": 46623,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+    },
+    {
+      "name": "particular-1.21.1-NeoForge-1.5.5.jar",
+      "path": "mods/",
+      "sha1": "ae12a64a5763c701325b8ca5bf6729f645a427e7",
+      "size": 314940,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/particular-1.21.1-NeoForge-1.5.5.jar"
+    },
+    {
+      "name": "punchy-2.6.2-neoforge-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "96c094efc72a1bdcdfaae9129f6018d7215f13f7",
+      "size": 1714297,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/punchy-2.6.2-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "Quark-4.1-482.jar",
+      "path": "mods/",
+      "sha1": "f73c3008321a9fb2da1151be9b49f0dfd006b6b5",
+      "size": 15576704,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Quark-4.1-482.jar"
+    },
+    {
+      "name": "quick-pack-neoforge-1.4.0+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "a725dffc3ab2e1e96326296255b4cefcc49cab61",
+      "size": 15082,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/quick-pack-neoforge-1.4.0+1.21.1.jar"
+    },
+    {
+      "name": "rarcompat-1.21-0.9.7.jar",
+      "path": "mods/",
+      "sha1": "55c301ea622fc5a613531715c99b7d1d66f2e1d6",
+      "size": 451470,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/rarcompat-1.21-0.9.7.jar"
+    },
+    {
+      "name": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "904f815b1f5c48703c354d432fcbc3531022337f",
+      "size": 260876,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
+    },
+    {
+      "name": "relics-1.21.1-0.10.7.8.jar",
+      "path": "mods/",
+      "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528",
+      "size": 2753166,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/relics-1.21.1-0.10.7.8.jar"
+    },
+    {
+      "name": "reliquified_twilight_forest-1.21.1-0.5.2.jar",
+      "path": "mods/",
+      "sha1": "caf8db3c3b0ce8d2bd765dd12e578dbfbd9d2eba",
+      "size": 769954,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/reliquified_twilight_forest-1.21.1-0.5.2.jar"
+    },
+    {
+      "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "path": "mods/",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+      "size": 484332,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+    },
+    {
+      "name": "sable-neoforge-1.21.1-2.0.3.jar",
+      "path": "mods/",
+      "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756",
+      "size": 12889000,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/sable-neoforge-1.21.1-2.0.3.jar"
+    },
+    {
+      "name": "smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "00338f16b360d6b24b53fc8f92b76256729aee75",
+      "size": 62900,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar"
+    },
+    {
+      "name": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "3aaac7712521b477acc73757459b3883c4e0bbda",
+      "size": 465013,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar"
+    },
+    {
+      "name": "sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "f868ab0a037d1211fabd31b2f42a2862b8e6c669",
+      "size": 1292065,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar"
+    },
+    {
+      "name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+      "size": 299353,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+    },
+    {
+      "name": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
+      "path": "mods/",
+      "sha1": "48d0817ba80d733afc654d55a2d0cbba0815dbe8",
+      "size": 199310,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar"
+    },
+    {
+      "name": "spawn-4.0.7-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "2deea6d639e5d197414f0903b4beb89c56466ae0",
+      "size": 73638060,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/spawn-4.0.7-1.21.1.jar"
+    },
+    {
+      "name": "supplementaries-1.21.1-3.8.8-neoforge.jar",
+      "path": "mods/",
+      "sha1": "4e66106d496a130f9d37824d30aaa8b494225b8f",
+      "size": 13470208,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/supplementaries-1.21.1-3.8.8-neoforge.jar"
+    },
+    {
+      "name": "teallib-1.3.teal.jar",
+      "path": "mods/",
+      "sha1": "b186cdfd311158858429e494ecd11e2157274eff",
+      "size": 262609,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/teallib-1.3.teal.jar"
+    },
+    {
+      "name": "Quiet-neo-1.21.1-1.0.0.jar",
+      "path": "mods/",
+      "sha1": "2bf5a9ccb1b99b38e6a9f181d55de9bb783a2600",
+      "size": 21118,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Quiet-neo-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "path": "mods/",
+      "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
+      "size": 120365,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+    },
+    {
+      "name": "MossyLib-1.5.0+1.21.1+neoforge.jar",
+      "path": "mods/",
+      "sha1": "c3ed14d35a7d95fc3b215ad5a2a604de4ff7b45c",
+      "size": 179463,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/MossyLib-1.5.0+1.21.1+neoforge.jar"
+    },
+    {
+      "name": "animal_pen-neoforge-1.21-2.4.3.jar",
+      "path": "mods/",
+      "sha1": "d307bdf87ad55e4ec789631c083c1b76ba0e26a9",
+      "size": 604038,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/animal_pen-neoforge-1.21-2.4.3.jar"
+    },
+    {
+      "name": "twilightforest-1.21.1-4.8.3345-universal.jar",
+      "path": "mods/",
+      "sha1": "9cfd4154928433e2f1f6cfc3deb48c284debb580",
+      "size": 27154121,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/twilightforest-1.21.1-4.8.3345-universal.jar"
+    },
+    {
+      "name": "twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "19d712b0003d64b5f1d3cd1ec80c705ac53fc047",
+      "size": 3364135,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1.jar"
+    },
+    {
+      "name": "txnilib-neoforge-1.0.24-1.21.1.jar",
+      "path": "mods/",
+      "sha1": "17b1bbb96e922e683a1807a2e7bece603fdc491d",
+      "size": 6276522,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/txnilib-neoforge-1.0.24-1.21.1.jar"
+    },
+    {
+      "name": "umbral_skies-1.21.1-1.6.2.jar",
+      "path": "mods/",
+      "sha1": "3fa47552e79588fbd5b50f8814e735b16f831f9e",
+      "size": 199999,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/umbral_skies-1.21.1-1.6.2.jar"
+    },
+    {
+      "name": "visuality-forge-2.1.0.jar",
+      "path": "mods/",
+      "sha1": "b400034ca8affe8f30b21935ae4ef74b1cf2fa29",
+      "size": 115765,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/visuality-forge-2.1.0.jar"
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.21.jar",
+      "path": "mods/",
+      "sha1": "f72eff26b1156fdce12ef18c5792c48a54340142",
+      "size": 4913870,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/voicechat-neoforge-1.21.1-2.6.21.jar"
+    },
+    {
+      "name": "xaerominimap-neoforge-1.21.1-26.1.0.jar",
+      "path": "mods/",
+      "sha1": "8def3c4be129420700d6fe325abe3a6b6fbe3e18",
+      "size": 2138254,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/xaerominimap-neoforge-1.21.1-26.1.0.jar"
+    },
+    {
+      "name": "xaeroworldmap-neoforge-1.21.1-1.41.2.jar",
+      "path": "mods/",
+      "sha1": "87be8ca51b531ac76e125a76fa05b2ba88823499",
+      "size": 1387921,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+      "size": 1118651,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "Zeta-1.1-40.jar",
+      "path": "mods/",
+      "sha1": "72f6efe421cfc0547c774ae8241d727b7d996754",
+      "size": 763725,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/Zeta-1.1-40.jar"
+    },
+    {
+      "name": "zmedievalmusic-1.21-2.1.jar",
+      "path": "mods/",
+      "sha1": "e31ff57bfbc7ce99257e020b77fa22aec45f7ad4",
+      "size": 347327121,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/zmedievalmusic-1.21-2.1.jar"
+    },
+    {
+      "name": "animation_controller_states.json",
+      "path": "config/fancymenu/",
+      "sha1": "ec38b919a5193abc324c98c7e477796f3a6827cf",
+      "size": 220,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/animation_controller_states.json"
+    },
+    {
+      "name": "audio_element_controller_metas.json",
+      "path": "config/fancymenu/",
+      "sha1": "32ec6c6d37932948d14a84bb43b51fbc62d5d99c",
+      "size": 216,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/audio_element_controller_metas.json"
+    },
+    {
+      "name": "customizablemenus.txt",
+      "path": "config/fancymenu/",
+      "sha1": "a05d29f93cd9ab06ee8227b1d009f69f907c7f99",
+      "size": 126,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/customizablemenus.txt"
+    },
+    {
+      "name": "custom_gui_screens.txt",
+      "path": "config/fancymenu/",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/custom_gui_screens.txt"
+    },
+    {
+      "name": "legacy_checklist.txt",
+      "path": "config/fancymenu/",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/legacy_checklist.txt"
+    },
+    {
+      "name": "options.txt",
+      "path": "config/fancymenu/",
+      "sha1": "0b95d57cad749e7966685324134e07755640148f",
+      "size": 4634,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/options.txt"
+    },
+    {
+      "name": "user_variables.db",
+      "path": "config/fancymenu/",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "size": 23,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/user_variables.db"
+    },
+    {
+      "name": "video_element_controller_metas.json",
+      "path": "config/fancymenu/",
+      "sha1": "616473f28f15b87783505f254b0f889dd0541a21",
+      "size": 130,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/video_element_controller_metas.json"
+    },
+    {
+      "name": "cherry_blossom.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "size": 9349,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/cherry_blossom.json"
+    },
+    {
+      "name": "cozy_campfire.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "size": 9347,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/cozy_campfire.json"
+    },
+    {
+      "name": "dark.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "size": 9329,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/dark.json"
+    },
+    {
+      "name": "dark_high_contrast.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "size": 9359,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/dark_high_contrast.json"
+    },
+    {
+      "name": "light.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "size": 9331,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/light.json"
+    },
+    {
+      "name": "light_high_contrast.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "size": 9361,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/light_high_contrast.json"
+    },
+    {
+      "name": "pumpkin_soup.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "size": 9345,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/pumpkin_soup.json"
+    },
+    {
+      "name": "purple_void.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "size": 9343,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/purple_void.json"
+    },
+    {
+      "name": "spooky_season.json",
+      "path": "config/fancymenu/ui_themes/",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "size": 9347,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/ui_themes/spooky_season.json"
+    },
+    {
+      "name": "element_layer_control.lewidget",
+      "path": "config/fancymenu/layout_editor/widgets/",
+      "sha1": "f4173e2f48307b9b67cb5f419fd54d128f73bf07",
+      "size": 207,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+    },
+    {
+      "name": "pause_screen_layout.txt",
+      "path": "config/fancymenu/customization/",
+      "sha1": "90e08bc0d07b6dd55b6a9862c391fb71ab2a7c09",
+      "size": 45804,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/customization/pause_screen_layout.txt"
+    },
+    {
+      "name": "title_screen_layout.txt",
+      "path": "config/fancymenu/customization/",
+      "sha1": "be3c0867fc9051deceae923663f2dd2980011bcc",
+      "size": 68827,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/customization/title_screen_layout.txt"
+    },
+    {
+      "name": "ahh.wav",
+      "path": "config/fancymenu/assets/",
+      "sha1": "f2b73ae39af98fabaa8240ffcc34829276c0bc77",
+      "size": 3346814,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/ahh.wav"
+    },
+    {
+      "name": "background1.png",
+      "path": "config/fancymenu/assets/",
+      "sha1": "9a43d8ee5b55010f7db90fa3406669ca101d59c7",
+      "size": 3177563,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/background1.png"
+    },
+    {
+      "name": "button.png",
+      "path": "config/fancymenu/assets/",
+      "sha1": "f5e40449c6acc01192c0e451dd41f80ec707c2af",
+      "size": 1511,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/button.png"
+    },
+    {
+      "name": "button_highlighted.png",
+      "path": "config/fancymenu/assets/",
+      "sha1": "6102582e7039d038b26494212ae92e030aa4b12e",
+      "size": 1543,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/button_highlighted.png"
+    },
+    {
+      "name": "ddda.wav",
+      "path": "config/fancymenu/assets/",
+      "sha1": "35a8ffa7386f2a9cff68b6bb2622d40366dc8355",
+      "size": 144516,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/ddda.wav"
+    },
+    {
+      "name": "ddddddd.png",
+      "path": "config/fancymenu/assets/",
+      "sha1": "28aedaee73bd2082c71e7b9d0135342d1c4ce188",
+      "size": 81903,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/ddddddd.png"
+    },
+    {
+      "name": "deuslower-dark-fantasy-ambient-dungeon-synth-248213.ogg",
+      "path": "config/fancymenu/assets/",
+      "sha1": "16f445ab217561d3c855ee4f8f06341b21e26dfc",
+      "size": 1284937,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/deuslower-dark-fantasy-ambient-dungeon-synth-248213.ogg"
+    },
+    {
+      "name": "mommy.ogg",
+      "path": "config/fancymenu/assets/",
+      "sha1": "1dfcc16fded20320a28f0994975728387cc7853b",
+      "size": 6061,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/mommy.ogg"
+    },
+    {
+      "name": "pressing-a-button-on-a-ballpoint-pen-on-the-table.ogg",
+      "path": "config/fancymenu/assets/",
+      "sha1": "ae29f42da2b6aeb2492ca5421be60ea12c0e4987",
+      "size": 9604,
+      "type": "OTHER",
+      "url": "https://magnarut.github.io/launchermod/config/fancymenu/assets/pressing-a-button-on-a-ballpoint-pen-on-the-table.ogg"
+    },
+    {
+      "name": "createjeicompat-1.0.3.jar",
+      "path": "mods/",
+      "sha1": "3435d67651913cf2105a4994d9a6af2873df37ac",
+      "size": 34183,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/createjeicompat-1.0.3.jar"
+    },
+    {
+      "name": "gravestone-neoforge-1.21.1-1.0.38.jar",
+      "path": "mods/",
+      "sha1": "2b6d5ff95bb80d811eac78d0556ee384125bca9d",
+      "size": 321850,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/gravestone-neoforge-1.21.1-1.0.38.jar"
+    },
+    {
+      "name": "gravestone_sable_compat-1.0.0.jar",
+      "path": "mods/",
+      "sha1": "e85ce99d0a777794f7b7e3eb955dd1eea28a8073",
+      "size": 37546,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/gravestone_sable_compat-1.0.0.jar"
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.44.0.401.jar",
+      "path": "mods/",
+      "sha1": "09415a5bc04e818b9ac5c910694ec7769fa53301",
+      "size": 1697362,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/jei-1.21.1-neoforge-19.44.0.401.jar"
+    },
+    {
+      "name": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "path": "mods/",
+      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+      "size": 174972,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/polymorph-neoforge-1.1.0+1.21.1.jar"
+    }
+  ],
   "mods": [
     {
-      "path": "mods/atmospherics-2.6.5-mc-1.21.1.jar",
-      "category": "optional",
-      "name": "ATMOSPHERICS",
-      "description": "Мод для налаштування туману, неба, хмар та зірок у реальному часі для кожного біома окремо.",
       "author": "Beash143",
+      "category": "optional",
+      "description": "Мод для налаштування туману, неба, хмар та зірок у реальному часі для кожного біома окремо.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/atmospherics",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/1726/982/256/256/639098816612374593.png",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/atmospherics"
+      "name": "ATMOSPHERICS",
+      "path": "mods/atmospherics-2.6.5-mc-1.21.1.jar"
     },
     {
-      "path": "mods/better-clouds-1.13.6+1.21.1-neoforge.jar",
-      "category": "optional",
-      "name": "Better Clouds",
-      "description": "Замінює стандартні ванільні хмари на об'ємні та багатошарові у блочному стилі Minecraft.",
       "author": "Qendolin",
+      "category": "optional",
+      "description": "Замінює стандартні ванільні хмари на об'ємні та багатошарові у блочному стилі Minecraft.",
+      "homepage": "https://modrinth.com/mod/better-clouds",
       "icon": "https://cdn.modrinth.com/data/5srFLIaK/68edb3cf18c96196450b84f467e7870f29a29554_96.webp",
-      "homepage": "https://modrinth.com/mod/better-clouds"
+      "name": "Better Clouds",
+      "path": "mods/better-clouds-1.13.6+1.21.1-neoforge.jar"
     },
     {
-      "path": "mods/blur-neoforge-6.3.1+1.21.1.jar",
-      "category": "optional",
-      "name": "Blur+",
-      "description": "Додає ефект плавної розмитості заднього фону при відкритті меню та інвентарю.",
       "author": "Motschen",
+      "category": "optional",
+      "description": "Додає ефект плавної розмитості заднього фону при відкритті меню та інвентарю.",
+      "homepage": "https://modrinth.com/mod/blur-plus",
       "icon": "https://cdn.modrinth.com/data/NK39zBp2/1bb976c95042f20f26e27e6c4eb9e359e45d5002.webp",
-      "homepage": "https://modrinth.com/mod/blur-plus"
+      "name": "Blur+",
+      "path": "mods/blur-neoforge-6.3.1+1.21.1.jar"
     },
-	{
-      "path": "mods/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar",
-      "category": "optional",
-      "name": "Particle Rain",
-      "description": "Змінює дощ",
+    {
       "author": "-",
+      "category": "optional",
+      "description": "Змінює дощ",
+      "homepage": "-",
       "icon": "-",
-      "homepage": "-"
+      "name": "Particle Rain",
+      "path": "mods/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar"
     },
-	{
-      "path": "mods/emi-1.1.24+1.21.1+neoforge.jar",
-      "category": "recommended",
-      "name": "EMI",
-      "description": "Додає перегляд крафтів предмеетів.",
+    {
       "author": "Emi",
+      "category": "recommended",
+      "description": "Додає перегляд крафтів предмеетів.",
+      "homepage": "https://modrinth.com/mod/emi",
       "icon": "https://cdn.modrinth.com/data/fRiHVvU7/395fe5302b2bab612ef0623509f768f3c5a5ee0f.webp",
-      "homepage": "https://modrinth.com/mod/emi"
+      "name": "EMI",
+      "path": "mods/emi-1.1.24+1.21.1+neoforge.jar"
     },
     {
-      "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
-      "category": "recommended",
-      "name": "Jade",
-      "description": "Показує інформацію про те на що ви дивитесь",
       "author": "Snownee",
-      "icon": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
-      "homepage": "https://modrinth.com/mod/jade"
-    },
-    {
-      "path": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
-      "category": "optional",
-      "name": "Immersive UI",
-      "description": "Покращує графічний інтерфейс: анімації предметів під курсором, ефекти частинок та плавний хотбар.",
-      "author": "SSKirillSS",
-      "icon": "https://media.forgecdn.net/avatars/thumbnails/1004/48/64/64/638524944427495074_animated.gif",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/immersive-ui"
-    },
-    {
-      "path": "mods/InventoryInteractions-1.3.0+1.21.1+neoforge.jar",
-      "category": "optional",
-      "name": "Inventory Interactions",
-      "description": "Аддон для Inventory Particles, що додає фізику та нові взаємодії з предметами в інвентарі.",
-      "author": "LopyMine",
-      "icon": "https://cdn.modrinth.com/data/FCzmUKBr/589027e6f84620dbc7c969edad54793b1c19c050_96.webp",
-      "homepage": "https://modrinth.com/mod/inventory-interactions"
-    },
-    {
-      "path": "mods/InventoryParticles-2.6.0+1.21.1+neoforge.jar",
-      "category": "optional",
-      "name": "Inventory Particles",
-      "description": "Додає анімовані візуальні ефекти частинок навколо предметів безпосередньо в інвентарі.",
-      "author": "LopyMine",
-      "icon": "https://cdn.modrinth.com/data/XYnKrsxH/e6973926d0f896e2bf7df8d69a7e53e78502606f_96.webp",
-      "homepage": "https://modrinth.com/mod/inventory-particles"
-    },
-    {
-      "path": "mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar",
-      "category": "optional",
-      "name": "Cursors Extended (Minecraft Cursor)",
-      "description": "Замінює стандартний системний курсор на стилізовані курсори у стилі Minecraft.",
-      "author": "fishstiz",
-      "icon": "https://cdn.modrinth.com/data/o5fhgLeQ/ef9ca61affa94e89e03d7a28323e4102841ae2e6.png",
-      "homepage": "https://modrinth.com/mod/minecraft-cursor"
-    },
-    {
-      "path": "mods/particular-1.21.1-NeoForge-1.5.5.jar",
-      "category": "optional",
-      "name": "Particular Reforged",
-      "description": "Покращує атмосферу гри за допомогою безлічі додаткових ефектів частинок для дій та подій.",
-      "author": "Project8gbDeRam",
-      "icon": "https://media.forgecdn.net/avatars/thumbnails/1197/972/64/64/638774113568203224.png",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/particular-reforged"
-    },
-    {
-      "path": "mods/punchy-2.6.2-neoforge-1.21.1.jar",
-      "category": "optional",
-      "name": "Punchy!",
-      "description": "Додає анімації рук від першої особи для замахів, тримання предметів та блокування.",
-      "author": "Punchy Guys Studios",
-      "icon": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
-      "homepage": "https://modrinth.com/mod/punchy-fpa"
-    },
-    {
-      "path": "mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
-      "category": "optional",
-      "name": "Smooth Swapping",
-      "description": "Додає плавну анімацію переміщення предметів між слотами інвентарю та хотбару.",
-      "author": "Schauweg",
-      "icon": "https://media.forgecdn.net/avatars/thumbnails/417/170/64/64/637640649236923611.png",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/smooth-swapping"
-    },
-    {
-      "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "category": "recommended",
-      "name": "Sodium Dynamic Lights",
-      "description": "Оптимізоване динамічне освітлення від предметів у руках чи скинутого луту з підтримкою Sodium.",
+      "description": "Показує інформацію про те на що ви дивитесь",
+      "homepage": "https://modrinth.com/mod/jade",
+      "icon": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+      "name": "Jade",
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar"
+    },
+    {
+      "author": "SSKirillSS",
+      "category": "optional",
+      "description": "Покращує графічний інтерфейс: анімації предметів під курсором, ефекти частинок та плавний хотбар.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/immersive-ui",
+      "icon": "https://media.forgecdn.net/avatars/thumbnails/1004/48/64/64/638524944427495074_animated.gif",
+      "name": "Immersive UI",
+      "path": "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar"
+    },
+    {
+      "author": "LopyMine",
+      "category": "optional",
+      "description": "Аддон для Inventory Particles, що додає фізику та нові взаємодії з предметами в інвентарі.",
+      "homepage": "https://modrinth.com/mod/inventory-interactions",
+      "icon": "https://cdn.modrinth.com/data/FCzmUKBr/589027e6f84620dbc7c969edad54793b1c19c050_96.webp",
+      "name": "Inventory Interactions",
+      "path": "mods/InventoryInteractions-1.3.0+1.21.1+neoforge.jar"
+    },
+    {
+      "author": "LopyMine",
+      "category": "optional",
+      "description": "Додає анімовані візуальні ефекти частинок навколо предметів безпосередньо в інвентарі.",
+      "homepage": "https://modrinth.com/mod/inventory-particles",
+      "icon": "https://cdn.modrinth.com/data/XYnKrsxH/e6973926d0f896e2bf7df8d69a7e53e78502606f_96.webp",
+      "name": "Inventory Particles",
+      "path": "mods/InventoryParticles-2.6.0+1.21.1+neoforge.jar"
+    },
+    {
+      "author": "fishstiz",
+      "category": "optional",
+      "description": "Замінює стандартний системний курсор на стилізовані курсори у стилі Minecraft.",
+      "homepage": "https://modrinth.com/mod/minecraft-cursor",
+      "icon": "https://cdn.modrinth.com/data/o5fhgLeQ/ef9ca61affa94e89e03d7a28323e4102841ae2e6.png",
+      "name": "Cursors Extended (Minecraft Cursor)",
+      "path": "mods/minecraft-cursor-neoforge-3.11.3+1.21.1.jar"
+    },
+    {
+      "author": "Project8gbDeRam",
+      "category": "optional",
+      "description": "Покращує атмосферу гри за допомогою безлічі додаткових ефектів частинок для дій та подій.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/particular-reforged",
+      "icon": "https://media.forgecdn.net/avatars/thumbnails/1197/972/64/64/638774113568203224.png",
+      "name": "Particular Reforged",
+      "path": "mods/particular-1.21.1-NeoForge-1.5.5.jar"
+    },
+    {
+      "author": "Punchy Guys Studios",
+      "category": "optional",
+      "description": "Додає анімації рук від першої особи для замахів, тримання предметів та блокування.",
+      "homepage": "https://modrinth.com/mod/punchy-fpa",
+      "icon": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
+      "name": "Punchy!",
+      "path": "mods/punchy-2.6.2-neoforge-1.21.1.jar"
+    },
+    {
+      "author": "Schauweg",
+      "category": "optional",
+      "description": "Додає плавну анімацію переміщення предметів між слотами інвентарю та хотбару.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/smooth-swapping",
+      "icon": "https://media.forgecdn.net/avatars/thumbnails/417/170/64/64/637640649236923611.png",
+      "name": "Smooth Swapping",
+      "path": "mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar"
+    },
+    {
       "author": "Txni",
+      "category": "recommended",
+      "description": "Оптимізоване динамічне освітлення від предметів у руках чи скинутого луту з підтримкою Sodium.",
+      "homepage": "https://modrinth.com/mod/sodium-dynamic-lights",
       "icon": "https://cdn.modrinth.com/data/PxQSWIcD/a5ab5515213391934e18baaf487c87e4b24ebfa3_96.webp",
-      "homepage": "https://modrinth.com/mod/sodium-dynamic-lights"
+      "name": "Sodium Dynamic Lights",
+      "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
     },
     {
-      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
-      "category": "optional",
-      "name": "Sound Physics Remastered",
-      "description": "Реалістична акустична система з ефектами відлуння, затухання та поглинання звуку блоками.",
       "author": "henkelmax",
+      "category": "optional",
+      "description": "Реалістична акустична система з ефектами відлуння, затухання та поглинання звуку блоками.",
+      "homepage": "https://modrinth.com/mod/sound-physics-remastered",
       "icon": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
-      "homepage": "https://modrinth.com/mod/sound-physics-remastered"
+      "name": "Sound Physics Remastered",
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar"
     },
     {
-      "path": "mods/visuality-forge-2.1.0.jar",
-      "category": "optional",
-      "name": "Visuality: Reforged",
-      "description": "Додає безліч нових анімованих частинок та візуальних ефектів під час дій гравця та мобів.",
       "author": "DragonsPlus",
+      "category": "optional",
+      "description": "Додає безліч нових анімованих частинок та візуальних ефектів під час дій гравця та мобів.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/visuality-reforged",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/807/912/64/64/638177658693066152.png",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/visuality-reforged"
+      "name": "Visuality: Reforged",
+      "path": "mods/visuality-forge-2.1.0.jar"
     },
     {
-      "path": "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar",
+      "author": "xaero96",
       "category": "optional",
-      "name": "Xaero's Minimap",
       "description": "Зручна міні-карта на екрані з підтримкою міток (waypoints), радара мобів та гнучкими налаштуваннями.",
-      "author": "xaero96",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/92/854/64/64/636258666554688823.png",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap"
+      "name": "Xaero's Minimap",
+      "path": "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar"
     },
-	{
-      "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
-      "category": "optional",
-      "name": "Euphoria Patches",
-      "description": "Аддон для Complementary Shaders",
+    {
       "author": "SpacEagle17",
+      "category": "optional",
+      "description": "Аддон для Complementary Shaders",
+      "homepage": "https://modrinth.com/mod/euphoria-patches",
       "icon": "https://cdn.modrinth.com/data/4H6sumDB/437130f3f10997f720ff0b788cb24cde3b3b8541.png",
-      "homepage": "https://modrinth.com/mod/euphoria-patches"
+      "name": "Euphoria Patches",
+      "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar"
     },
     {
-      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar",
-      "category": "optional",
-      "name": "Xaero's World Map",
-      "description": "Повноекранна інтерактивна карта дослідженого світу, що синхронізується з Xaero's Minimap.",
       "author": "xaero96",
+      "category": "optional",
+      "description": "Повноекранна інтерактивна карта дослідженого світу, що синхронізується з Xaero's Minimap.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/196/654/64/64/636886857118683130.png",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map"
+      "name": "Xaero's World Map",
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
     },
     {
-      "path": "mods/zmedievalmusic-1.21-2.1.jar",
-      "category": "optional",
-      "name": "Medieval Music",
-      "description": "Замінює ванільний музичний супровід на атмосферні середньовічні композиції.",
       "author": "someaddon",
+      "category": "optional",
+      "description": "Замінює ванільний музичний супровід на атмосферні середньовічні композиції.",
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/medieval-music",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/427/265/64/64/637658665442701432.jpeg",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/medieval-music"
+      "name": "Medieval Music",
+      "path": "mods/zmedievalmusic-1.21-2.1.jar"
+    },
+    {
+      "author": "",
+      "category": "optional",
+      "description": "",
+      "homepage": "",
+      "icon": "",
+      "name": "createjeicompat-1.0.3",
+      "path": "mods/createjeicompat-1.0.3.jar"
+    },
+    {
+      "author": "",
+      "category": "optional",
+      "description": "",
+      "homepage": "",
+      "icon": "",
+      "name": "gravestone-neoforge-1.21.1-1.0.38",
+      "path": "mods/gravestone-neoforge-1.21.1-1.0.38.jar"
+    },
+    {
+      "author": "",
+      "category": "optional",
+      "description": "",
+      "homepage": "",
+      "icon": "",
+      "name": "gravestone_sable_compat-1.0.0",
+      "path": "mods/gravestone_sable_compat-1.0.0.jar"
+    },
+    {
+      "author": "",
+      "category": "optional",
+      "description": "",
+      "homepage": "",
+      "icon": "",
+      "name": "jei-1.21.1-neoforge-19.44.0.401",
+      "path": "mods/jei-1.21.1-neoforge-19.44.0.401.jar"
+    },
+    {
+      "author": "",
+      "category": "optional",
+      "description": "",
+      "homepage": "",
+      "icon": "",
+      "name": "polymorph-neoforge-1.1.0+1.21.1",
+      "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar"
     }
-  ]
+  ],
+  "version": "1.0.0"
 }
