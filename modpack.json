@@ -887,14 +887,6 @@
       "url": "https://magnarut.github.io/launchermod/mods/Zeta-1.1-40.jar"
     },
     {
-      "name": "zmedievalmusic-1.21-2.1.jar",
-      "path": "mods/",
-      "sha1": "e31ff57bfbc7ce99257e020b77fa22aec45f7ad4",
-      "size": 347327121,
-      "type": "MOD",
-      "url": "https://magnarut.github.io/launchermod/mods/zmedievalmusic-1.21-2.1.jar"
-    },
-    {
       "name": "animation_controller_states.json",
       "path": "config/fancymenu/",
       "sha1": "ec38b919a5193abc324c98c7e477796f3a6827cf",
@@ -1173,6 +1165,14 @@
       "size": 74380,
       "type": "MOD",
       "url": "https://magnarut.github.io/launchermod/mods/baguettelib-1.21.1-NeoForge-2.0.3.jar"
+    },
+    {
+      "name": "shine-2.0.2+1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "63942a634545a89dc133519c228797c192b0fc21",
+      "size": 421603,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/shine-2.0.2+1.21.1-neoforge.jar"
     }
   ],
   "mods": [
@@ -1348,15 +1348,6 @@
       "path": "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
     },
     {
-      "author": "someaddon",
-      "category": "optional",
-      "description": "Замінює ванільний музичний супровід на атмосферні середньовічні композиції.",
-      "homepage": "https://www.curseforge.com/minecraft/mc-mods/medieval-music",
-      "icon": "https://media.forgecdn.net/avatars/thumbnails/427/265/64/64/637658665442701432.jpeg",
-      "name": "Medieval Music",
-      "path": "mods/zmedievalmusic-1.21-2.1.jar"
-    },
-    {
       "author": "",
       "category": "recommended",
       "description": "",
@@ -1371,8 +1362,17 @@
       "description": "",
       "homepage": "",
       "icon": "",
-      "name": "jei-1.21.1-neoforge-19.44.0.401",
+      "name": "Jei",
       "path": "mods/jei-1.21.1-neoforge-19.44.0.401.jar"
+    },
+    {
+      "author": "tapeQ",
+      "category": "optional",
+      "description": "Додає кольорове світло без шейдерів",
+      "homepage": "https://modrinth.com/mod/shine",
+      "icon": "https://cdn.modrinth.com/data/uQgWIE6A/6e084c42cc4647ca8306728c21b5e315ad552898_96.webp",
+      "name": "Shine",
+      "path": "mods/shine-2.0.2+1.21.1-neoforge.jar"
     }
   ],
   "version": "1.0.0"
