@@ -1173,6 +1173,70 @@
       "size": 421603,
       "type": "MOD",
       "url": "https://magnarut.github.io/launchermod/mods/shine-2.0.2+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "copycats-3.0.4+mc.1.21.1-neoforge (1).jar",
+      "path": "mods/",
+      "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f",
+      "size": 1791747,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/copycats-3.0.4+mc.1.21.1-neoforge (1).jar"
+    },
+    {
+      "name": "create-enchantment-industry-2.5.1b.jar",
+      "path": "mods/",
+      "sha1": "ec3c2f608691d54952709a2d5f11d9a06620c6f0",
+      "size": 1573329,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/create-enchantment-industry-2.5.1b.jar"
+    },
+    {
+      "name": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "path": "mods/",
+      "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
+      "size": 3771506,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/createbigcannons-5.11.7+mc.1.21.1.jar"
+    },
+    {
+      "name": "CreateDragonsPlus-1.11.7b.jar",
+      "path": "mods/",
+      "sha1": "36085362f1123273a2d8e8e7e8af86c32ac10251",
+      "size": 1038830,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/CreateDragonsPlus-1.11.7b.jar"
+    },
+    {
+      "name": "create_connected-1.3.2-mc1.21.1.jar",
+      "path": "mods/",
+      "sha1": "920de05b13c32fe1417d0aec0615057aa480cc8d",
+      "size": 6779410,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/create_connected-1.3.2-mc1.21.1.jar"
+    },
+    {
+      "name": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "path": "mods/",
+      "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+      "size": 76369,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+    },
+    {
+      "name": "sophisticatedbackpacks-1.21.1-3.25.77.2086.jar",
+      "path": "mods/",
+      "sha1": "b370eb918c0d3f8bc152d8018d29e253ac79d0bb",
+      "size": 1172284,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/sophisticatedbackpacks-1.21.1-3.25.77.2086.jar"
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.4.87.2270.jar",
+      "path": "mods/",
+      "sha1": "88b503eee04727bdf10296d0c4bb74154cd4a730",
+      "size": 1686878,
+      "type": "MOD",
+      "url": "https://magnarut.github.io/launchermod/mods/sophisticatedcore-1.21.1-1.4.87.2270.jar"
     }
   ],
   "mods": [
@@ -1375,5 +1439,5 @@
       "path": "mods/shine-2.0.2+1.21.1-neoforge.jar"
     }
   ],
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
